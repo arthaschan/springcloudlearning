@@ -29,6 +29,14 @@ public class MyFilter extends ZuulFilter{
         return true;
     }
 
+
+//    这时访问：http://localhost:8769/api-a/hi?name=forezp ；网页显示：
+//
+//    token is empty
+//    访问 http://localhost:8769/api-a/hi?name=forezp&token=22 ；
+//    网页显示：
+//
+//    hi forezp,i am from port:8762
     @Override
     public Object run() {
         RequestContext ctx = RequestContext.getCurrentContext();

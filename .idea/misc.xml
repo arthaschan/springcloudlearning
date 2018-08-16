@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/chapter1/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter1/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter2/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter3/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter4/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/service-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/service-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/service-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter5/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter6/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter8/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/service-miya/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter9/server-zipkin/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -8,6 +8,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
  * Created by fangzhipeng on 2017/4/6.
  */
+
+//FeignClient 表示代理了service-hi 这个程序的接口。而SchedualServiceHi 代理的是其中的hi  部分
 @FeignClient(value = "service-hi")
 public interface SchedualServiceHi {
     @RequestMapping(value = "/hi",method = RequestMethod.GET)

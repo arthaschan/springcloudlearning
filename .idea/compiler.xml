@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter1" />
+        <module name="chapter1 (1)" />
+        <module name="chapter1 (2)" />
+        <module name="chapter2" />
+        <module name="chapter3" />
+        <module name="chapter5" />
+        <module name="chapter6" />
+        <module name="chapter7" />
+        <module name="chapter8" />
+        <module name="chapter9" />
+        <module name="config-client" />
+        <module name="config-client (1)" />
+        <module name="config-client 8" />
+        <module name="config-server" />
+        <module name="config-server (1)" />
+        <module name="config-server 8" />
+        <module name="eureka-server" />
+        <module name="eureka-server (1)" />
+        <module name="eureka-server 2" />
+        <module name="eureka-server 4" />
+        <module name="eureka-server 5" />
+        <module name="eureka-server 8" />
+        <module name="eureka-server sleuth" />
+        <module name="eureka-server3" />
+        <module name="gateway-service" />
+        <module name="server-zipkin" />
+        <module name="service-feign" />
+        <module name="service-feign (1)" />
+        <module name="service-feign 4" />
+        <module name="service-feign 5" />
+        <module name="service-hi" />
+        <module name="service-hi (1)" />
+        <module name="service-hi 2" />
+        <module name="service-hi 4" />
+        <module name="service-hi 5" />
+        <module name="service-hi3" />
+        <module name="service-ribbon" />
+        <module name="service-ribbon (1)" />
+        <module name="service-ribbon 4" />
+        <module name="service-ribbon 5" />
+        <module name="service-ribbon3" />
+        <module name="service-zipkin" />
+        <module name="service-zuul" />
+        <module name="service-zuul 5" />
+        <module name="service2-zipkin" />
+        <module name="user-service" />
+        <module name="zipkin-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter1" target="1.5" />
+      <module name="chapter1 (1)" target="1.5" />
+      <module name="chapter1 (2)" target="1.5" />
+      <module name="chapter2" target="1.5" />
+      <module name="chapter3" target="1.5" />
+      <module name="chapter5" target="1.5" />
+      <module name="chapter6" target="1.5" />
+      <module name="chapter7" target="1.5" />
+      <module name="chapter8" target="1.5" />
+      <module name="chapter9" target="1.5" />
+      <module name="config-client" target="1.8" />
+      <module name="config-client (1)" target="1.8" />
+      <module name="config-client 8" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config-server (1)" target="1.8" />
+      <module name="config-server 8" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server (1)" target="1.8" />
+      <module name="eureka-server 2" target="1.8" />
+      <module name="eureka-server 4" target="1.8" />
+      <module name="eureka-server 5" target="1.8" />
+      <module name="eureka-server 8" target="1.8" />
+      <module name="eureka-server sleuth" target="1.8" />
+      <module name="eureka-server3" target="1.8" />
+      <module name="gateway-service" target="1.8" />
+      <module name="server-zipkin" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-feign (1)" target="1.8" />
+      <module name="service-feign 4" target="1.8" />
+      <module name="service-feign 5" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-hi (1)" target="1.8" />
+      <module name="service-hi 2" target="1.8" />
+      <module name="service-hi 4" target="1.8" />
+      <module name="service-hi 5" target="1.8" />
+      <module name="service-hi3" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-ribbon (1)" target="1.8" />
+      <module name="service-ribbon 4" target="1.8" />
+      <module name="service-ribbon 5" target="1.8" />
+      <module name="service-ribbon3" target="1.8" />
+      <module name="service-zipkin" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+      <module name="service-zuul 5" target="1.8" />
+      <module name="service2-zipkin" target="1.8" />
+      <module name="sleuth" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

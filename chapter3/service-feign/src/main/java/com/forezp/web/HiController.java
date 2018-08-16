@@ -19,4 +19,9 @@ public class HiController {
     public String sayHi(@RequestParam String name){
         return schedualServiceHi.sayHiFromClientOne(name);
     }
+//
+//    启动程序，多次访问http://localhost:8765/hi?name=forezp,浏览器交替显示：
+//
+//    hi forezp,i am from port:8762
+//    hi forezp,i am from port:8763
 }
